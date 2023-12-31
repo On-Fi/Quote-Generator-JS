@@ -8,8 +8,14 @@ body {
     transition: background-color 0.3s, color 0.3s;
 }
 
-h1{
+h1 {
     font-size: 30px; 
+    cursor: default;
+    color: #494949;
+}
+
+.dark-mode h1 {
+    color: #fff;
 }
 
 .dark-mode {
@@ -18,7 +24,8 @@ h1{
 }
 
 #quote-container {
-    max-width: 700px;
+    max-width: 1000px;
+    min-width: 1000px;
     text-align: center;
     padding: 10px;
     font-size: 50px;
@@ -33,7 +40,9 @@ button {
     margin-top: 20px;
     padding: 10px 20px;
     font-size: 16px;
+    border-radius: 8px;
     cursor: pointer;
+    background-color: #f7f7f7;
     border: 1px solid #333; /* Border color for light mode */
 }
 
