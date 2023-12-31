@@ -53,7 +53,6 @@ button:hover {
     animation: gradientAnimation 4s infinite;
     color: hsla(0, 0%, 2%, 0.825); 
     border: 1px solid #333; /* Border color for light mode */
-   
 }
 
 .dark-mode #quote-container {
@@ -70,7 +69,7 @@ button:hover {
 
 .dark-mode button:hover {
     background-color: #ffffff;
-    color: #000;
+    color: #fff;
     border-color: #fff; /* Border color on hover in dark mode */
 }
 
