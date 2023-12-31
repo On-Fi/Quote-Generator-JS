@@ -18,9 +18,10 @@ body {
     text-align: center;
     padding: 20px;
     border-radius: 8px;
-    font-size: 32px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     transition: background-color 0.3s, color 0.3s;
+    height: 150px; /* Set a fixed height for the container */
+    overflow: hidden; /* Hide overflow content */
 }
 
 button {
@@ -28,7 +29,6 @@ button {
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
-    background-color: #e4e4e4;
     border: 1px solid #333; /* Border color for light mode */
 }
 
