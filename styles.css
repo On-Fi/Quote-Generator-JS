@@ -24,7 +24,12 @@ body {
     overflow: hidden; /* Hide overflow content */
 }
 
-button {
+#quote {
+    height: 100%;
+    overflow: auto; /* Enable scrolling if the content is too long */
+}
+
+button, #toggleDarkMode {
     margin-top: 20px;
     padding: 10px 20px;
     font-size: 16px;
@@ -32,13 +37,7 @@ button {
     border: 1px solid #333; /* Border color for light mode */
 }
 
-.dark-mode #quote-container {
-    background-color: #444;
-    color: #fff;
-    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
-}
-
-.dark-mode button {
+.dark-mode button, .dark-mode #toggleDarkMode {
     background-color: #555;
     color: #fff;
     border: 1px solid #fff; /* Border color for dark mode */
