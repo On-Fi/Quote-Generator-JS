@@ -48,9 +48,12 @@ button {
 }
 
 button:hover {
-    background-color: #333;
-    color: #fff;
-    border-color: #fff; /* Border color on hover */
+    background: linear-gradient(-45deg, #2c3e50, hsl(302, 75%, 55%), #b1e73c, #1abc9c, #2c3e50);
+    background-size: 410% 410%;
+    animation: gradientAnimation 4s infinite;
+    color: hsla(0, 0%, 2%, 0.825); 
+    border: 1px solid #333; /* Border color for light mode */
+   
 }
 
 .dark-mode #quote-container {
@@ -71,5 +74,15 @@ button:hover {
     border-color: #fff; /* Border color on hover in dark mode */
 }
 
-
+@keyframes gradientAnimation {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
 
