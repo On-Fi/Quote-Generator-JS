@@ -16,8 +16,10 @@ body {
 #quote-container {
     max-width: 600px;
     text-align: center;
-    padding: 20px;
+    padding: 10px;
+    font-size: 40px;
     border-radius: 8px;
+    margin: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     transition: background-color 0.3s, color 0.3s;
 }
