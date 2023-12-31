@@ -27,6 +27,7 @@ button {
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
+    border: 1px solid #333; /* Border color for light mode */
 }
 
 .dark-mode #quote-container {
@@ -38,4 +39,5 @@ button {
 .dark-mode button {
     background-color: #555;
     color: #fff;
+    border: 1px solid #fff; /* Border color for dark mode */
 }
