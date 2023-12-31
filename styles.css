@@ -17,9 +17,9 @@ body {
     max-width: 600px;
     text-align: center;
     padding: 20px;
-    background-color: #fff;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s, color 0.3s;
 }
 
 button {
@@ -27,6 +27,12 @@ button {
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
+}
+
+.dark-mode #quote-container {
+    background-color: #444;
+    color: #fff;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
 }
 
 .dark-mode button {
