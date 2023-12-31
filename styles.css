@@ -20,8 +20,6 @@ body {
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     transition: background-color 0.3s, color 0.3s;
-    height: 150px; /* Set a fixed height for the container */
-    overflow: hidden; /* Hide overflow content */
 }
 
 button {
