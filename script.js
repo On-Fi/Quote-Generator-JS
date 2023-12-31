@@ -1,4 +1,4 @@
-// The Array of quotes
+// Array of quotes
 const quotes = [
     "The only way to do great work is to love what you do. - Steve Jobs",
     "In three words I can sum up everything I've learned about life: it goes on. - Robert Frost",
@@ -8,12 +8,18 @@ const quotes = [
     "The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt"
 ];
 
-// The Function to generate a random quote
+// Function to generate a random quote
 function generateQuote() {
     const randomIndex = Math.floor(Math.random() * quotes.length);
     const randomQuote = quotes[randomIndex];
     document.getElementById('quote').textContent = randomQuote;
 }
 
-// The Event listener for the button click
+// Function to toggle dark mode
+function toggleDarkMode() {
+    document.body.classList.toggle('dark-mode');
+}
+
+// Event listeners
 document.getElementById('generateBtn').addEventListener('click', generateQuote);
+document.getElementById('toggleDarkMode').addEventListener('click', toggleDarkMode);
