@@ -21,6 +21,9 @@ const quotes = [
     "I hear and I forget. I see and I remember. I do and I understand. ― Confucius",
     "Wherever you go, go with all your heart. ― Confucius",
     "The more we value things outside our control, the less control we have. ― Marcus Aurelius",
+    "When you arise in the morning, think of what a precious privilege it is to be alive – to breathe, to think, to enjoy, to love. ― Marcus Aurelius",
+    "Waste no more time arguing about what a good man should be. Be one. ― Marcus Aurelius",
+    "I cannot escape death, but at least I can escape the fear of it. ― Marcus Aurelius",
     "As soon as you trust yourself, you will know how to live. ― Johann Wolfgang von Goethe",
     "A man sees in the world what he carries in his heart. ― Johann Wolfgang von Goethe",
     "Life belongs to the living, and he who lives must be prepared for changes. ― Johann Wolfgang von Goethe",
@@ -31,7 +34,6 @@ const quotes = [
     "Failure is simply the opportunity to begin again, this time more intelligently. ― Henry Ford",
     "If you think you can do a thing or think you can't do a thing, you're right. ― Henry Ford",
     "Nothing is particularly hard if you divide it into small jobs. ― Henry Ford",
-    "",
     "",
 ];
 
