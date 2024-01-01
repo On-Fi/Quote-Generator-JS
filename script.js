@@ -8,9 +8,18 @@ const quotes = [
     "The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt",
     "If you're going to try, go all the way. Otherwise, don't even start. - Charles Bukowski",
     "You have to die a few times before you can really live. - Charles Bukowski",
+    "what matters most is how well you walk through the fire. ― Charles Bukowski",
+    "Find what you love and let it kill you. ― Charles Bukowski",
     "",
     "",
-
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
 ];
 
 // The Function to generate a random quote
