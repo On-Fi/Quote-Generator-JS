@@ -6,8 +6,8 @@ const quotes = [
     "Success is not final, failure is not fatal: It is the courage to continue that counts. - Winston Churchill",
     "Your time is limited, don't waste it living someone else's life. - Steve Jobs",
     "The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt",
-    "",
-    "",
+    "If you're going to try, go all the way. Otherwise, don't even start. - Charles Bukowski",
+    "You have to die a few times before you can really live. - Charles Bukowski",
     "",
     "",
 
