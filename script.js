@@ -24,8 +24,8 @@ const quotes = [
     "As soon as you trust yourself, you will know how to live. ― Johann Wolfgang von Goethe",
     "A man sees in the world what he carries in his heart. ― Johann Wolfgang von Goethe",
     "Life belongs to the living, and he who lives must be prepared for changes. ― Johann Wolfgang von Goethe",
-    "",
-    "",
+    "Enjoy when you can, and endure when you must. ― Johann Wolfgang von Goethe",
+    "Everything is hard before it is easy ― Johann Wolfgang von Goethe",
     "",
 ];
 
