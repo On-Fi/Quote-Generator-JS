@@ -19,7 +19,14 @@ const quotes = [
     "Amor Fati – “Love Your Fate”, which is in fact your life. ― Friedrich Nietzsche",
     "Life is really simple, but we insist on making it complicated. ― Confucius",
     "I hear and I forget. I see and I remember. I do and I understand. ― Confucius",
-    "Wherever you go, go with all your heart. ― Confucius"
+    "Wherever you go, go with all your heart. ― Confucius",
+    "The more we value things outside our control, the less control we have. ― Marcus Aurelius",
+    "As soon as you trust yourself, you will know how to live. ― Johann Wolfgang von Goethe",
+    "A man sees in the world what he carries in his heart. ― Johann Wolfgang von Goethe",
+    "Life belongs to the living, and he who lives must be prepared for changes. ― Johann Wolfgang von Goethe",
+    "",
+    "",
+    "",
 ];
 
 // The Function to generate a random quote
