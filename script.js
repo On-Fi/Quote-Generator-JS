@@ -25,7 +25,13 @@ const quotes = [
     "A man sees in the world what he carries in his heart. ― Johann Wolfgang von Goethe",
     "Life belongs to the living, and he who lives must be prepared for changes. ― Johann Wolfgang von Goethe",
     "Enjoy when you can, and endure when you must. ― Johann Wolfgang von Goethe",
-    "Everything is hard before it is easy ― Johann Wolfgang von Goethe",
+    "We must always change, renew, rejuvenate ourselves; otherwise, we harden. ― Johann Wolfgang von Goethe",
+    "Man minus the Machine is a slave; Man plus the Machine is a freeman. ― Henry Ford",
+    "Every success is the mother of countless others. ― Henry Ford",
+    "Failure is simply the opportunity to begin again, this time more intelligently. ― Henry Ford",
+    "If you think you can do a thing or think you can't do a thing, you're right. ― Henry Ford",
+    "Nothing is particularly hard if you divide it into small jobs. ― Henry Ford",
+    "",
     "",
 ];
 
