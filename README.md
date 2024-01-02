@@ -5,5 +5,5 @@ It is still a **WIP** but you can check it out, <br> if you are curious what som
 
 
 ## TO-DO's:
-- add more quotes
+- add more quotes [x]
 - make it fit for mobile users
