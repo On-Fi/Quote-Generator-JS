@@ -53,12 +53,12 @@ const quotes = [
     "First learn the meaning of what you say, and then speak. ― Epictetus",
     "No great thing is created suddenly. ― Epictetus",
     "Make the best use of what is in your power, and take the rest as it happens. ― Epictetus",
-    " ― Epictetus",
-    "",
-    "",
-    "",
-    "",
-    "",
+    "No man is free who is not master of himself. ― Epictetus",
+    "Man conquers the world by conquering himself. ― Zeno",
+    "Better to trip with the feet than with the tongue ― Zeno",
+    "Steel your sensibilities, so that life shall hurt you as little as possible. ― Zeno",
+    " ― ",
+    " ― ",
 ];
 
 // The Function to generate a random quote
