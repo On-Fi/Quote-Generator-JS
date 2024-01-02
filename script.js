@@ -9,6 +9,7 @@ const quotes = [
     "Success consists of going from failure to failure without loss of enthusiasm. ― Winston Churchill",
     "Attitude is a little thing that makes a big difference. ― Winston Churchill",
     "To improve is to change; to be perfect is to change often. ― Winston Churchill",
+    "We make a living by what we get, but we make a life by what we give. — Winston Churchill",
     "Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen. ― Winston Churchill",
     "I am an optimist. It does not seem too much use being anything else. ― Winston Churchill",
     "The future belongs to those who believe in the beauty of their dreams. ― Eleanor Roosevelt",
@@ -79,6 +80,11 @@ const quotes = [
     "If you cannot do great things, do small things in a great way.. ― Napoleon Hill",
     "When we are no longer able to change a situation, we are challenged to change ourselves. — Viktor E. Frankl",
     "You miss 100% of the shots you don`t take. — Wayne Gretzky",
+    "Success is falling nine times and getting up 10. — Jon Bon Jovi",
+    "Develop success from failures. Discouragement and failures are two of the surest stepping stones to success. — Dale Carnegie",
+    "A person who never made a mistake never tried anything new. — Albert Einstein",
+    "Don't worry about failure, you only have to be right once. — Drew Houston",
+    "For the great doesn't happen through impulse alone, and is a succession of little things that are brought together. — Vincent Van Gogh",
     "",
     "",
     "",
@@ -93,13 +99,7 @@ const quotes = [
     "",
     "",
     "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-   
+    ""
 ];
 
 // The Function to generate a random quote
