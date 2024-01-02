@@ -91,15 +91,15 @@ const quotes = [
     "It is during our darkest moments that we must focus to see the light. - Aristotle",
     "Be yourself; everyone else is already taken. - Oscar Wilde",
     "You must be the change you wish to see in the world. - Mahatma Gandhi",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
+    "Spread love everywhere you go. Let no one ever come to you without leaving happier. - Mother Teresa",
+    "Do not go where the path may lead, go instead where there is no path and leave a trail. - Ralph Waldo Emerson",
+    "You will face many defeats in life, but never let yourself be defeated. - Maya Angelou",
+    "You only live once, but if you do it right, once is enough. - Mae West",
+    "Leave nothing for tomorrow which can be done today. - Abraham Lincoln",
+    "Believe you can and you're halfway there. - Theodore Roosevelt",
+    "Courage is grace under pressure. - Ernest Hemingway",
+    "Don't find fault, find a remedy: anyone can complain. - Henry Ford",
+    "Get busy living or get busy dying. — Stephen King"
 ];
 
 // The Function to generate a random quote
